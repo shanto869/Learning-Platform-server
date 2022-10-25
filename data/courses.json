@@ -1,0 +1,62 @@
+[
+    {
+        "id": "6357efefe91e8fb60b13f526",
+        "index": 0,
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "course_price": 0,
+        "course_titel": "Abstract Algebra",
+        "ratings": 0,
+        "purchase_quantity": 0
+    },
+    {
+        "id": "6357efef28c4827fcaf49759",
+        "index": 1,
+        "isActive": true,
+        "picture": "http://placehold.it/32x32",
+        "course_price": 1,
+        "course_titel": "Real Analysis",
+        "ratings": 1,
+        "purchase_quantity": 1
+    },
+    {
+        "id": "6357efef026bf3e6b4cd449c",
+        "index": 2,
+        "isActive": true,
+        "picture": "http://placehold.it/32x32",
+        "course_price": 2,
+        "course_titel": "Complex Analysis",
+        "ratings": 2,
+        "purchase_quantity": 2
+    },
+    {
+        "id": "6357efef54fa0cd5d8474a43",
+        "index": 3,
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "course_price": 3,
+        "course_titel": "Differential Geometry",
+        "ratings": 3,
+        "purchase_quantity": 3
+    },
+    {
+        "id": "6357efef525cd4d72ee55f7e",
+        "index": 4,
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "course_price": 4,
+        "course_titel": "Mechanics",
+        "ratings": 4,
+        "purchase_quantity": 4
+    },
+    {
+        "id": "6357efef2f06f0e79665fa8b",
+        "index": 5,
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "course_price": 5,
+        "course_titel": "Linear Programming",
+        "ratings": 5,
+        "purchase_quantity": 5
+    }
+]
