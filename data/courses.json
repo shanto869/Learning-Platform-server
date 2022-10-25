@@ -4,59 +4,59 @@
         "index": 0,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
-        "course_price": 0,
+        "course_price": "2000tk",
         "course_titel": "Abstract Algebra",
-        "ratings": 0,
-        "purchase_quantity": 0
+        "ratings": 5,
+        "purchase_quantity": "200+"
     },
     {
         "id": "6357efef28c4827fcaf49759",
         "index": 1,
         "isActive": true,
         "picture": "http://placehold.it/32x32",
-        "course_price": 1,
+        "course_price": "2200tk",
         "course_titel": "Real Analysis",
-        "ratings": 1,
-        "purchase_quantity": 1
+        "ratings": 4.5,
+        "purchase_quantity": "250+"
     },
     {
         "id": "6357efef026bf3e6b4cd449c",
         "index": 2,
         "isActive": true,
         "picture": "http://placehold.it/32x32",
-        "course_price": 2,
+        "course_price": "1800tk",
         "course_titel": "Complex Analysis",
-        "ratings": 2,
-        "purchase_quantity": 2
+        "ratings": 5,
+        "purchase_quantity": "320+"
     },
     {
         "id": "6357efef54fa0cd5d8474a43",
         "index": 3,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
-        "course_price": 3,
+        "course_price": "2500tk",
         "course_titel": "Differential Geometry",
-        "ratings": 3,
-        "purchase_quantity": 3
+        "ratings": 4.3,
+        "purchase_quantity": "180+"
     },
     {
         "id": "6357efef525cd4d72ee55f7e",
         "index": 4,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
-        "course_price": 4,
+        "course_price": "2000tk",
         "course_titel": "Mechanics",
-        "ratings": 4,
-        "purchase_quantity": 4
+        "ratings": 4.6,
+        "purchase_quantity": "400+"
     },
     {
         "id": "6357efef2f06f0e79665fa8b",
         "index": 5,
         "isActive": false,
         "picture": "http://placehold.it/32x32",
-        "course_price": 5,
+        "course_price": "3000tk",
         "course_titel": "Linear Programming",
         "ratings": 5,
-        "purchase_quantity": 5
+        "purchase_quantity": "500+"
     }
 ]
